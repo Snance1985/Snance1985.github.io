@@ -1,0 +1,39 @@
+.job-details {
+    text-align: center;
+    background-color: #468C98;
+    background-image: url(https://img.freepik.com/free-vector/gradient-cyber-futuristic-background_23-2149117429.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.job-title {
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #101419;
+    background-color:  #add9f4;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 5px;
+}
+.job-description {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #101419;
+    background-color:  #add9f4;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5px;
+}
+
+.back {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #101419;
+    background-color:  #add9f4;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5px;
+}

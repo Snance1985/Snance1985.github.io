@@ -1,0 +1,91 @@
+.home {
+  text-align: center;
+  background-image: url(https://t3.ftcdn.net/jpg/06/33/00/42/360_F_633004264_b6ZuRQZYAsZIEYfWdY15EAOiaG4ZJIbn.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: #add9f4;
+  border-style: inset;
+  border-color: #232ED1;
+  border-radius: 2px;
+}
+
+.heading {
+  padding: 10px;
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  background-color: #101419;
+  margin-left: 35%;
+  margin-right: 35%;
+  border-radius: 5px;
+}
+
+.name {
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: #101419;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 5px;
+}
+.angular {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #101419;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 5px;
+}
+
+.csharp {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #101419;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 5px;
+}
+
+.javascript {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #101419;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 5px;
+}
+
+.html {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #101419;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 5px;
+}
+
+.css {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #101419;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 5px;
+}
+
+.bootstrap {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #101419;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 5px;
+}

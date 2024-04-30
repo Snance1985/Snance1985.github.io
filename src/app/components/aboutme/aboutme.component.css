@@ -1,0 +1,63 @@
+.about {
+    background-image: url(https://t4.ftcdn.net/jpg/03/29/00/21/360_F_329002139_cmFeAFvu47kRIfDuKWKA3mIuGvYnbax4.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;
+    color: #101419;
+    border-style: inset;
+    border-color: #232ED1;
+    border-radius: 2px;
+}
+
+.aboutMe {
+    padding: 10px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    background-color:  #add9f4;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 5px;
+}
+
+.statement {
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    background-color:  #add9f4;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.contactme {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color:  #add9f4;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 5px;
+}
+
+.contactme2 {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color:  #add9f4;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 5px;
+}
+
+.contactme3 {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color:  #add9f4;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 5px;
+}

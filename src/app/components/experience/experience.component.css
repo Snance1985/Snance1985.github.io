@@ -1,0 +1,34 @@
+.jobs {
+    text-align: center;
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlOV92aXN1YWxpemF0aW9uX29mX3F1YW50dW1fYWxnb3JpdGhtc193aXRoX2Zsb3dpbl9hM2E1N2IzYS02ZTQ2LTQ3ZmMtYjdjZS0yNDFlOGM5Y2YyZmRfMS5qcGc.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    border-style: inset;
+    border-color: #232ED1;
+    border-radius: 2px;
+}
+
+.jobs1 {
+    padding: 10px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #101419;
+    background-color: #add9f4;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 5px;
+}
+
+.jobs2 {
+    padding: 10px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #101419;
+    background-color: #add9f4;
+    margin-left: 45%;
+    margin-right: 45%;
+    border-radius: 5px;
+}

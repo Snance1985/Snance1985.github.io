@@ -1,0 +1,14 @@
+.navbar {
+    text-align: center;
+    background-color: #6564DB;
+    padding: 5px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #101419;
+    margin-left: 38%;
+    margin-right: 38%;
+}
