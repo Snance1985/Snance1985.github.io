@@ -4,9 +4,11 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   template: `
   <nav class="navbar">
-    <a routerLink="/homepage">Home Page</a>|
+    <div class="container-sm">
+    <a  routerLink="/homepage">Home Page</a>|
     <a routerLink="/aboutme">About Me</a>|
     <a routerLink="/experience">My Experience</a>
+    </div>
   </nav>
   <router-outlet></router-outlet>
 `,
